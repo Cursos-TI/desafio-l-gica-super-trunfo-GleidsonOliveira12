@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Programa para comparar duas cartas com dados de cidades (estilo Super Trunfo)
+// Programa para comparar duas cartas com dados de cidades
 
 int main() {
     // Declaração das variáveis para armazenar os dados de cada carta
